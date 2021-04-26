@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Rain's Awesome New Repository
 
-You can use the [editor on GitHub](https://github.com/rainleander/AwesomeNewRepository/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a process oriented, superbly creative, interdisciplinary community liaison with a Bachelor’s in dance and a Master’s in information technology. An epic public speaker, I have disappeared within a box stuffed with swords, created life, and gone skydiving with the Queen.
 
-### Markdown
+Yes, really.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am an active technical contributor with Tinkerbell [0], RDO [1], Fedora Project [2], OpenStack [3], TripleO [4], and DjangoGirls [5] as well as a maintainer of several smaller open source projects like Equinix Metal's Uniform Standards [6] and Non Binary Resources Awesome List [7].
 
-```markdown
-Syntax highlighted code block
+I joyously seek the next remote developer relations adventure in the open source space as this is the community where I have been a part of - collaborating and inspiring, developing and documenting, encouraging and protecting - for over twelve years.
 
-# Header 1
-## Header 2
-### Header 3
+I am particularly keen to work with YOU because we share a passion for open source, love of community, and drive to change the world. I look forward to discussing how I can help you succeed and, if you're interested, sure, chatting about swords and skydiving, at your nearest convenience via https://calendly.com/rainleander.
 
-- Bulleted
-- List
+All the best,
+Rain
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rainleander/AwesomeNewRepository/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[0] https://tinkerbell.org/
+[1] http://rdoproject.org/
+[2] https://www.openstack.org/
+[3] https://getfedora.org/
+[4] https://docs.openstack.org/tripleo-docs/latest/
+[5] https://djangogirls.org/
+[6] https://github.com/packethost/standards
+[7] https://github.com/rainleander/nonbinary-resources
