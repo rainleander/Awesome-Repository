@@ -1,4 +1,4 @@
-## Welcome to Rain's Awesome New Repository
+## Welcome to Rain's Awesome Repository
 
 Hello!
 
